@@ -1,3 +1,5 @@
+;日期：2023年12月9日
+;作者：fanyb
 (defun c:lsp_01 ()
 	(setvar "cmdecho" 0)
   (setq pt1 (getpoint "\n你好，请输入一个点："))
